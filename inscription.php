@@ -15,7 +15,7 @@
 
         <form class="row g-3 needs-validation justify-content-center" method="post" action="inscrire.php">
 
-            <h3 class="text-center mb-4">Inscription</h3>
+            <h3 class="text-center mb-4 fw-bold">Inscription</h3>
 
             <div class="col-12 col-md-6">
                 <label class="form-label">Nom</label>
@@ -53,6 +53,7 @@
         </form>
 
     </div>
+    
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 </body>

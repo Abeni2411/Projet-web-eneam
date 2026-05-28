@@ -16,7 +16,7 @@
 <body>
     <div class="container">
         <form action="traitement11.php" method="post" name="form-signup" id="form-signup">
-            <h3 class="text-center pt-5">Ajouter un article</h3>
+            <h3 class="text-center pt-5 fw-bold">Ajouter un article</h3>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Code article</label>
                 <input type="text" class="form-control" id="email" aria-describedby="emailHelp" name="code" required>
